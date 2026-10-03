@@ -134,3 +134,5 @@ python3 run_tests.py
 `run_tests.py` runs the `unittest` suite and exits 0 on success.
 Railway: reviewtriagedesk-multi-location-review-r
 Cloudflare: reviewtriagedesk-multi-location-review-r.vokrix.co
+
+Billing: price_1UMGy42c9uGCcgMSrFISb7go
