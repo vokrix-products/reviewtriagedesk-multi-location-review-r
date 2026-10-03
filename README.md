@@ -136,3 +136,5 @@ Railway: reviewtriagedesk-multi-location-review-r
 Cloudflare: reviewtriagedesk-multi-location-review-r.vokrix.co
 
 Billing: price_1UMGy42c9uGCcgMSrFISb7go
+
+Landing: https://vokrix.co/reviewtriagedesk-multi-location-review-r
